@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-![Random Quote Generator Screenshot/GIF - Optional, but highly recommended!]
+![Random Quote Generator Screenshot/GIF]
 
 ## Table of Contents
 
