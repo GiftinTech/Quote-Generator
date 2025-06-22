@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-![Random Quote Generator Screenshot/GIF]
+Project Link: [https://giftintech.github.io/Quote-Generator/](https://giftintech.github.io/Quote-Generator/)
 
 ## Table of Contents
 
@@ -114,7 +114,5 @@ Distributed under the MIT License. See [LICENSE](https://img.shields.io/badge/li
 ## Contact
 
 egbonyigiftvicky@gmail.com
-
-Project Link: [https://giftintech.github.io/Quote-Generator/](https://giftintech.github.io/Quote-Generator/)
 
 ---
