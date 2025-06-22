@@ -113,6 +113,17 @@ Distributed under the MIT License. See [LICENSE](https://img.shields.io/badge/li
 
 ## Contact
 
-egbonyigiftvicky@gmail.com
+Quote Generator was passionately built by **GiftinTech (Gift Egbonyi)**, a dedicated **AI Frontend Developer**. GiftinTech is always happy to connect, collaborate, and discuss exciting projects with fellow enthusiasts and professionals!
+
+You can find more about their work and connect through:
+
+- **Linktree:** [https://linktr.ee/GiftinTech](https://linktr.ee/GiftinTech)
+- **LinkedIn:** [https://www.linkedin.com/in/gift-egbonyi](https://www.linkedin.com/in/gift-egbonyi)
+- **Portfolio:** [https://giftegbonyi.vercel.app/](https://giftegbonyi.vercel.app/)
+- **Email:**
+[egbonyigiftvicky@gmail.com](egbonyigiftvicky@gmail.com)
+
+
+
 
 ---
